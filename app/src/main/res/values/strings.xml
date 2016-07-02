@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Editor</string>
+
+    <!-- Image editor -->
+    <string name="creative_sdk_secret_id">4ec9dea3-e46d-4b20-a405-f28397496c4f</string>
+    <string name="creative_sdk_client_id">30b0cfc089294da986a935e37ad5d9fd</string>
+    <!-- End of Image editor -->
+</resources>
