@@ -1,2 +1,4 @@
 # Aviary-Android-Example
-This is aviary image editor example in android.
+This is an aviary image editor example in android.
+
+For more details: http://www.coders-hub.com
